@@ -19,32 +19,83 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nodejs,express,mongodb,git,docker,figma" />
 </p>
 
+<table width="100%" cellspacing="0" cellpadding="3">
+<tr>
+  <td width="150">HTML</td>
+  <td>
+    <progress value="95" max="100" style="width:100%"></progress> 95%
+  </td>
+</tr>
+<tr>
+  <td>CSS</td>
+  <td>
+    <progress value="90" max="100" style="width:100%"></progress> 90%
+  </td>
+</tr>
+<tr>
+  <td>JavaScript</td>
+  <td>
+    <progress value="85" max="100" style="width:100%"></progress> 85%
+  </td>
+</tr>
+<tr>
+  <td>React</td>
+  <td>
+    <progress value="80" max="100" style="width:100%"></progress> 80%
+  </td>
+</tr>
+<tr>
+  <td>Tailwind CSS</td>
+  <td>
+    <progress value="80" max="100" style="width:100%"></progress> 80%
+  </td>
+</tr>
+<tr>
+  <td>Node.js</td>
+  <td>
+    <progress value="10" max="100" style="width:100%"></progress> 10%
+  </td>
+</tr>
+<tr>
+  <td>Express</td>
+  <td>
+    <progress value="10" max="100" style="width:100%"></progress> 10%
+  </td>
+</tr>
+<tr>
+  <td>MongoDB</td>
+  <td>
+    <progress value="10" max="100" style="width:100%"></progress> 10%
+  </td>
+</tr>
+<tr>
+  <td>TypeScript</td>
+  <td>
+    <progress value="60" max="100" style="width:100%"></progress> 60%
+  </td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats (Auto Dark/Light)
+## 📊 GitHub Stats
 
 <p align="center">
   <picture>
-    <!-- Light Mode -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qrs15&theme=default" />
-    <!-- Dark Mode -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qrs15&theme=tokyonight" alt="GitHub Stats" />
   </picture>
-</p>
-
-<p align="center">
-  <picture>
+   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qrs15&theme=default" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qrs15&theme=tokyonight" alt="Top Languages" />
   </picture>
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
@@ -58,11 +109,9 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/karaskamalh">
+  <a href="https://www.buymeacoffee.com/karaskamalh">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=110&section=footer"/>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=110&section=footer"/>
