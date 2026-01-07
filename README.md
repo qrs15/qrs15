@@ -58,7 +58,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/karaskamalh">
+  <a href="buymeacoffee.com/karaskamalh">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 
